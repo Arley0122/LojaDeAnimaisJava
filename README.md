@@ -2,7 +2,7 @@
 
 Este é um projeto desenvolvido em Java para simular o gerenciamento de uma PetShop. A aplicação utiliza conceitos sólidos de Programação Orientada a Objetos (POO) para gerenciar estoque, vendas e características específicas de diferentes tipos de animais.
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 O sistema funciona via console (terminal) e permite:
 
@@ -18,7 +18,7 @@ O sistema funciona via console (terminal) e permite:
     * "Concerto dos animais" (Demonstração de Polimorfismo onde cada animal emite seu som).
 * **Relatórios:** Geração de relatório financeiro e de vendas.
 
-## 🛠️ Tecnologias e Conceitos Utilizados
+##  Tecnologias e Conceitos Utilizados
 
 * **Java (JDK)**
 * **POO:** Herança, Polimorfismo, Classes Abstratas e Encapsulamento.
@@ -27,7 +27,7 @@ O sistema funciona via console (terminal) e permite:
 * **Java Streams:** Filtragem de dados funcional.
 * **Tratamento de Exceções:** Criação e uso de exceções personalizadas (`EntradaMenuInvalidaException`) e `try-catch`.
 
-## 📦 Como baixar e executar
+##  Como baixar e executar
 
 Para rodar este projeto na sua máquina, você precisará do [Java JDK](https://www.oracle.com/java/technologies/downloads/) instalado.
 
