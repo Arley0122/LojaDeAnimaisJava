@@ -35,6 +35,6 @@ Para rodar este projeto na sua máquina, você precisará do [Java JDK](https://
    ```bash
    git clone [https://github.com/Arley0122/LojaDeAnimaisJava.git](https://github.com/Arley0122/LojaDeAnimaisJava.git)
 ## No diretório baixado execute os seguintes comandos no terminal:
-cd src
-javac Main.java
-java Main
+* cd src
+* javac Main.java
+* java Main
