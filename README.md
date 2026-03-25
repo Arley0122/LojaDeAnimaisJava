@@ -1,4 +1,4 @@
-# 🐾 Sistema de Gerenciamento de PetShop (Loja de Animais)
+# Sistema de Gerenciamento de PetShop (Loja de Animais)
 
 Este é um projeto desenvolvido em Java para simular o gerenciamento de uma PetShop. A aplicação utiliza conceitos sólidos de Programação Orientada a Objetos (POO) para gerenciar estoque, vendas e características específicas de diferentes tipos de animais.
 
